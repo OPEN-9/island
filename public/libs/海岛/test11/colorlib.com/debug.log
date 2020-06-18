@@ -1,0 +1,5 @@
+[0605/134324.891:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 管道已结束。 (0x6D)
+[0606/091442.031:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0606/091442.035:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 管道已结束。 (0x6D)
+[0613/152156.198:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0613/152156.204:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 管道已结束。 (0x6D)
